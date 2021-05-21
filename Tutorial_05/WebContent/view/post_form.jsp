@@ -7,7 +7,7 @@
 <title>Insert title here</title>
 </head>
 <body>
-<form action="" method="post">
+<form action="post" method="post">
 <table align="center">
 	<tr>
 	<td>작성자</td>

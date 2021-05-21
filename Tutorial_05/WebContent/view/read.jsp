@@ -18,5 +18,8 @@
 		<td colspan="4" align="center" height="300">${board.contents }</td>
 	</tr>
 </table>
+<a href="delete?number=${board.number }">삭제</a>
+
+<a href="updateform?number=${board.number }">수정</a>
 </body>
 </html>
